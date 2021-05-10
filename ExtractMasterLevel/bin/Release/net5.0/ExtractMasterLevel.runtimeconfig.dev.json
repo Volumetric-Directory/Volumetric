@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\omnik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\omnik\\.nuget\\packages"
+    ]
+  }
+}

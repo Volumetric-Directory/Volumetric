@@ -1,0 +1,16 @@
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.csprojAssemblyReference.cache
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.AssemblyInfoInputs.cache
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.AssemblyInfo.cs
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.csproj.CoreCompileInputs.cache
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\bin\Release\net5.0\ExtractMasterLevel.exe
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\bin\Release\net5.0\ExtractMasterLevel.deps.json
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\bin\Release\net5.0\ExtractMasterLevel.runtimeconfig.json
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\bin\Release\net5.0\ExtractMasterLevel.runtimeconfig.dev.json
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\bin\Release\net5.0\ExtractMasterLevel.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\bin\Release\net5.0\ref\ExtractMasterLevel.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\bin\Release\net5.0\ExtractMasterLevel.pdb
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ref\ExtractMasterLevel.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.pdb
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\ExtractMasterLevel\ExtractMasterLevel\obj\Release\net5.0\ExtractMasterLevel.genruntimeconfig.cache

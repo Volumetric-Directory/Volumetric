@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExtractMasterLevel/1.0.0": {
+        "runtime": {
+          "ExtractMasterLevel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtractMasterLevel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

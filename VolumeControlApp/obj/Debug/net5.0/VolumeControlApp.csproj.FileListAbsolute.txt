@@ -1,0 +1,16 @@
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.csprojAssemblyReference.cache
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.AssemblyInfoInputs.cache
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.AssemblyInfo.cs
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.csproj.CoreCompileInputs.cache
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\bin\Debug\net5.0\VolumeControlApp.exe
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\bin\Debug\net5.0\VolumeControlApp.deps.json
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\bin\Debug\net5.0\VolumeControlApp.runtimeconfig.json
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\bin\Debug\net5.0\VolumeControlApp.runtimeconfig.dev.json
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\bin\Debug\net5.0\VolumeControlApp.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\bin\Debug\net5.0\ref\VolumeControlApp.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\bin\Debug\net5.0\VolumeControlApp.pdb
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\ref\VolumeControlApp.dll
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.pdb
+C:\Users\omnik\Downloads\MSTcoronafiles\EE4097\volumetric\Initial\VolumeControlApp\obj\Debug\net5.0\VolumeControlApp.genruntimeconfig.cache
